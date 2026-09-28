@@ -2,6 +2,8 @@
 
 News Next Door tells you, in plain words or audio, what’s happening on your block in the language you want.
 
+Photon Sponsor 1st Place
+
 **[Watch the 2-minute demo](https://www.youtube.com/watch?v=xCKf7bbWMu0&feature=youtu.be)** · **[Try the live app](https://news-next-door-production.up.railway.app/)** · **[Devpost](https://devpost.com/software/news-next-door)** ·
 
 ---
