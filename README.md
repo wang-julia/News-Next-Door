@@ -4,6 +4,8 @@
 
 New York City never stops talking. It is one of the most linguistically diverse places on earth: 3.1 million New Yorkers were born outside the United States, about 37.5% of the city, and nearly half of all residents speak a language other than English at home. But while the city speaks hundreds of languages, much of the information that shapes its neighborhoods speaks just one.
 
+**[Watch the 2-minute demo](https://www.youtube.com/watch?v=xCKf7bbWMu0&feature=youtu.be)** · **[Try the live app](https://news-next-door-production.up.railway.app/)** · **[Devpost](https://devpost.com/software/news-next-door)** ·
+
 ---
 
 ## Inspiration
