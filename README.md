@@ -1,14 +1,14 @@
 # News Next Door
 
-**News Next Door tells you, in plain words or audio, what’s happening on your block in the language you want.**
-
-New York City never stops talking. It is one of the most linguistically diverse places on earth: 3.1 million New Yorkers were born outside the United States, about 37.5% of the city, and nearly half of all residents speak a language other than English at home. But while the city speaks hundreds of languages, much of the information that shapes its neighborhoods speaks just one.
+News Next Door tells you, in plain words or audio, what’s happening on your block in the language you want.
 
 **[Watch the 2-minute demo](https://www.youtube.com/watch?v=xCKf7bbWMu0&feature=youtu.be)** · **[Try the live app](https://news-next-door-production.up.railway.app/)** · **[Devpost](https://devpost.com/software/news-next-door)** ·
 
 ---
 
 ## Inspiration
+
+New York City never stops talking. It is one of the most linguistically diverse places on earth: 3.1 million New Yorkers were born outside the United States, about 37.5% of the city, and nearly half of all residents speak a language other than English at home. But while the city speaks hundreds of languages, much of the information that shapes its neighborhoods speaks just one.
 
 Every day, government decisions, local news events, and neighborhood developments directly affect immigrant communities. A rezoning in Long Island City, a bus priority corridor in Jackson Heights, a playground redesign in Greenpoint — each one goes through a community board, a public review period, and a vote.
 
