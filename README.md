@@ -1,6 +1,6 @@
 # News Next Door
 
-**Local news and land-use decisions across New York City — in plain words, in your language, before the vote happens.**
+**News Next Door tells you, in plain words or audio, what’s happening on your block in the language you want.**
 
 New York City never stops talking. It is one of the most linguistically diverse places on earth: 3.1 million New Yorkers were born outside the United States, about 37.5% of the city, and nearly half of all residents speak a language other than English at home. But while the city speaks hundreds of languages, much of the information that shapes its neighborhoods speaks just one.
 
@@ -13,8 +13,6 @@ New York City never stops talking. It is one of the most linguistically diverse 
 Every day, government decisions, local news events, and neighborhood developments directly affect immigrant communities. A rezoning in Long Island City, a bus priority corridor in Jackson Heights, a playground redesign in Greenpoint — each one goes through a community board, a public review period, and a vote.
 
 Yet almost all of it is written in dense English rather than plain language: 40-page PDFs full of ULURP numbers and CEQR identifiers, posted on websites built for people who already know how the process works. That makes it difficult for immigrant voters to understand what is happening in their own communities, while they can still say something about it.
-
-For a neighbor who reads Mandarin or Spanish more comfortably than English, or someone who is 72 and does not want to squint at 13-pixel gray text, finding out what is happening on their own block is surprisingly hard.
 
 ## What it does
 
